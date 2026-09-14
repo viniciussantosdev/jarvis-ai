@@ -1,0 +1,13 @@
+Senhor Vinicius, o Java é uma linguagem de programação de alto nível, desenvolvida pela Sun Microsystems (agora conhecida como Oracle Corporation). Ela foi projetada para ser versátil, escalável e fácil de usar, tornando-a uma das linguagens de programação mais populares do mundo.
+
+O Java é conhecido por sua capacidade de executar código em vários ambientes, incluindo o Java Virtual Machine (JVM), o que permite que os programas Java sejam executados em qualquer dispositivo que tenha um JVM instalado.
+
+A linguagem também é famosa por suas características, como:
+
+* Polimorfismo: permite que um objeto seja usado em diferentes contextos sem mudar sua implementação.
+* Encapsulação: permite que os objetos contenham seus estados e métodos de forma segura.
+* Herança: permite que os objetos heritem as propriedades e métodos de outro objeto.
+
+O Java é amplamente utilizado em desenvolvimento de software, incluindo aplicações de desktop, móveis, web e enterprise. Além disso, é uma linguagem popular para desenvolvimento de aplicativos de Android.
+
+Você gostaria de saber mais sobre como começar a aprender Java, Senhor Vinicius?
